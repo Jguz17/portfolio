@@ -11086,7 +11086,6 @@ Footer Styles
 }
 
 .footer-default .footer-left .inner::after {
-  content: url(../images/logo/big-logo.png);
   position: absolute;
   right: 0;
   top: 50%;
