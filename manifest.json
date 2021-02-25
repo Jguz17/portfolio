@@ -1,0 +1,51 @@
+{
+    "name": "Johnathan's Portfolio",
+    "short_name": "Johnathan'sPortfolio",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#303137",
+    "theme_color": "#FF193D",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/images/icons/rocket-72-by-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/assets/images/icons/rocket-96-by-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/assets/images/icons/rocket-128-by-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/assets/images/icons/rocket-144-by-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/assets/images/icons/rocket-152-by-152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/assets/images/icons/rocket-192-by-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/images/icons/rocket-384-by-384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/assets/images/icons/rocket-512-by-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
