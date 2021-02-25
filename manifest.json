@@ -3,7 +3,7 @@
     "short_name": "Johnathan'sPortfolio",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#303137",
+    "background_color": "#FF193D",
     "theme_color": "#FF193D",
     "orientation": "portrait-primary",
     "icons": [
